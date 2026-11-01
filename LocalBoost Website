@@ -1,1 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LocalBoost | The Local Business Growth Partner</title>
+<meta name="description" content="LocalBoost helps local businesses strengthen their online presence with Google Business Profile optimization, social media, posters, websites and WhatsApp support.">
+<meta name="theme-color" content="#0B2A45">
+<link rel="canonical" href="https://samiks.netlify.app/">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%93%88%3C/text%3E%3C/svg%3E">
 
+<!-- Link preview tags (Open Graph): show a title, description and cover image when the link is shared on WhatsApp, LinkedIn, Facebook, etc. -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LocalBoost">
+<meta property="og:locale" content="en_IN">
+<meta property="og:url" content="https://samiks.netlify.app/">
+<meta property="og:title" content="LocalBoost | The Local Business Growth Partner">
+<meta property="og:description" content="Practical, affordable and creative digital solutions for local businesses. Grow Local. Grow Digital.">
+<meta property="og:image" content="https://samiks.netlify.app/images/og-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="LocalBoost logo with the line The Local Business Growth Partner and sample poster designs">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="LocalBoost | The Local Business Growth Partner">
+<meta name="twitter:description" content="Practical, affordable and creative digital solutions for local businesses.">
+<meta name="twitter:image" content="https://samiks.netlify.app/images/og-cover.jpg">
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"LocalBoost","url":"https://samiks.netlify.app/","logo":"https://samiks.netlify.app/images/logo.png","email":"samikshac188@gmail.com","telephone":"+919607651152","sameAs":["https://www.instagram.com/local_boost_2026"]}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Carlito:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F3F5F8;--card:#fff;--ink:#0B2A45;--muted:#52667D;--line:#DDE3EC;--navy:#0B2A45;--navy2:#15405F;--blue:#1F6FEB;--green:#19B483;--orange:#F7931E;--on:#F2F7FF;--on2:#B4C6DA;--f:'Carlito','Calibri','Segoe UI',system-ui,sans-serif;box-sizing:border-box;padding-top:env(safe-area-inset-top,0)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#071A2B;--card:#0F2B45;--ink:#EAF1FB;--muted:#9FB3CE;--line:#1D3C5A}}
+:root[data-theme="dark"]{--bg:#071A2B;--card:#0F2B45;--ink:#EAF1FB;--muted:#9FB3CE;--line:#1D3C5A}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:76px}
+body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.6 var(--f)}
+img{max-width:100%;display:block}a{color:inherit}
+:focus-visible{outline:3px solid var(--blue);outline-offset:3px;border-radius:6px}
+.wrap{width:min(1120px,100% - 36px);margin-inline:auto}
+section{padding:76px 0}
+h1,h2,h3{line-height:1.12;letter-spacing:-.02em;margin:0}
+h2{font-size:clamp(28px,4vw,42px);margin-bottom:12px}
+.kick{font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);margin:0 0 10px}
+.sub{color:var(--muted);max-width:40em;margin:0 0 36px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:13px 24px;border-radius:999px;font:700 17px var(--f);text-decoration:none;border:2px solid transparent;cursor:pointer;transition:transform .15s}
+.btn:hover{transform:translateY(-2px)}
+.b-or{background:var(--orange);color:#fff}.b-gr{background:var(--green);color:#fff}.b-ln{border-color:rgba(242,247,255,.45);color:var(--on)}
+/* nav */
+.nav{position:sticky;top:0;z-index:20;background:var(--navy);padding-top:env(safe-area-inset-top,0)}
+.nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+.logo{background:#fff;border-radius:10px;padding:6px 12px;display:flex}.logo img{height:30px;width:auto}
+.nav ul{display:flex;gap:26px;list-style:none;margin:0;padding:0}
+.nav ul a{color:var(--on2);text-decoration:none;font-weight:700;font-size:16px}.nav ul a:hover{color:#fff}
+.nav .btn{padding:9px 18px;font-size:15px}
+/* hero */
+.hero{background:radial-gradient(900px 480px at 85% 0,#1B4A75 0,transparent 65%),var(--navy);color:var(--on);padding:64px 0 72px}
+.hero .wrap{display:grid;grid-template-columns:1.1fr 1fr;gap:40px;align-items:center}
+.hero h1{font-size:clamp(36px,5.4vw,62px);margin-bottom:18px}
+.hero p{color:var(--on2);font-size:20px;max-width:30em;margin:0 0 28px}
+.cta{display:flex;flex-wrap:wrap;gap:12px}
+.tag{color:var(--green);font-weight:700;font-size:20px;margin-bottom:14px}
+.fan{position:relative;aspect-ratio:1/1.05;max-width:480px;margin-inline:auto;width:100%}
+.fan img{position:absolute;width:44%;border-radius:16px;box-shadow:0 26px 50px -16px rgba(0,0,0,.6)}
+.fan .a{left:0;top:14%;transform:rotate(-8deg)}.fan .b{left:28%;top:0;z-index:2;width:46%}.fan .c{right:0;top:16%;transform:rotate(7deg)}
+/* cards */
+.grid{display:grid;gap:20px}
+.g4{grid-template-columns:repeat(4,1fr)}.g3{grid-template-columns:repeat(3,1fr)}.g2{grid-template-columns:repeat(2,1fr)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px}
+.card h3{font-size:21px;margin-bottom:8px}.card p{margin:0;color:var(--muted);font-size:16.5px}
+.ico{width:46px;height:46px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;font-size:20px;margin-bottom:14px}
+.about{background:var(--card);border-block:1px solid var(--line)}
+.about .wrap{display:grid;grid-template-columns:1.2fr 1fr;gap:48px}
+.mission{background:var(--navy);color:var(--on);border-radius:20px;padding:28px}
+.mission p{color:var(--on2);margin:8px 0 0}.mission h3{font-size:26px}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.chip{padding:8px 16px;border-radius:999px;background:var(--bg);border:1px solid var(--line);font-weight:700;font-size:16px}
+/* gallery */
+.gal{display:grid;grid-template-columns:repeat(4,1fr);gap:22px 18px;align-items:start}
+.gal figure{margin:0}.gal .w{grid-column:span 2}
+.gal img{width:100%;height:auto;border-radius:14px;box-shadow:0 16px 32px -20px rgba(11,42,69,.6);background:var(--card)}
+.gal figcaption{padding:8px 2px 0;font-weight:700;font-size:17px}
+.gal figcaption span{display:block;font-weight:400;color:var(--muted);font-size:15px}
+.note{border-left:4px solid var(--orange);padding:4px 0 4px 14px;color:var(--muted);font-size:16px;max-width:44em;margin:30px 0 0}
+/* plans */
+.plans .card{display:flex;flex-direction:column}
+.plans .pop{border:2px solid var(--green)}
+.plans ul{margin:14px 0 0;padding:0;list-style:none;display:grid;gap:9px}
+.plans li{padding-left:28px;position:relative;font-size:16.5px}
+.plans li::before{content:"";position:absolute;left:0;top:.4em;width:16px;height:16px;border-radius:50%;background:var(--green)}
+.plans li::after{content:"";position:absolute;left:5px;top:.56em;width:5px;height:8px;border:solid #fff;border-width:0 2px 2px 0;transform:rotate(45deg)}
+.strip{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 28px}
+.strip span{background:var(--navy);color:#fff;border-radius:999px;padding:9px 18px;font-weight:700}
+/* steps */
+.steps{counter-reset:s;display:grid;grid-template-columns:repeat(3,1fr);gap:20px;list-style:none;margin:0;padding:0}
+.steps li{counter-increment:s;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px}
+.steps li::before{content:counter(s);display:grid;place-items:center;width:38px;height:38px;border-radius:50%;background:var(--navy);color:#fff;font-weight:700;margin-bottom:12px}
+.steps h3{font-size:20px;margin-bottom:6px}.steps p{margin:0;color:var(--muted);font-size:16.5px}
+/* faq */
+details{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 20px;margin-bottom:12px}
+summary{cursor:pointer;font-weight:700;font-size:19px}
+details p{margin:10px 0 0;color:var(--muted)}
+/* contact */
+.contact{background:var(--navy);color:var(--on)}
+.contact .wrap{display:grid;grid-template-columns:1fr 1fr;gap:44px}
+.contact .sub{color:var(--on2)}
+.cl{list-style:none;margin:0 0 24px;padding:0;display:grid;gap:14px}
+.cl a{text-decoration:none;display:flex;flex-direction:column;background:var(--navy2);border-radius:14px;padding:14px 18px}
+.cl small{color:var(--on2);font-size:14px}.cl strong{font-size:20px}
+form{background:var(--navy2);border-radius:18px;padding:24px;display:grid;gap:14px}
+label{font-size:15px;font-weight:700;color:var(--on2)}
+input,textarea{width:100%;margin-top:6px;padding:12px 14px;border-radius:10px;border:1px solid #2C5578;background:#0B2A45;color:#fff;font:17px var(--f)}
+textarea{min-height:110px;resize:vertical}
+footer{background:#071A2B;color:var(--on2);padding:26px 0 calc(26px + env(safe-area-inset-bottom,0));font-size:15px}
+footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px}
+footer a{color:var(--on2)}
+@media (max-width:900px){
+ .hero .wrap,.about .wrap,.contact .wrap{grid-template-columns:1fr}
+ .g4,.gal{grid-template-columns:repeat(2,1fr)}.g3,.steps{grid-template-columns:1fr}
+ .nav ul{display:none}section{padding:56px 0}
+}
+@media (max-width:520px){.g2{grid-template-columns:1fr}.g4{grid-template-columns:1fr}.gal{gap:18px 12px}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn{transition:none}}
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="logo" href="#top" aria-label="LocalBoost home"><img src="images/logo.png" alt="LocalBoost" width="88" height="30"></a>
+    <nav aria-label="Main"><ul>
+      <li><a href="#about">About</a></li><li><a href="#services">Services</a></li><li><a href="#work">Work</a></li>
+      <li><a href="#plans">Plans</a></li><li><a href="#process">Process</a></li><li><a href="#faq">FAQ</a></li>
+    </ul></nav>
+    <a class="btn b-gr" href="#contact">Contact</a>
+  </div>
+</header>
+
+<main id="top">
+<section class="hero">
+  <div class="wrap">
+    <div>
+      <p class="tag">Grow Local. Grow Digital.</p>
+      <h1>Helping Local Businesses Grow Their Digital Presence.</h1>
+      <p>Practical digital solutions, creative content, and online presence support tailored to your business needs.</p>
+      <div class="cta">
+        <a class="btn b-or" href="#services">Explore Our Services</a>
+        <a class="btn b-ln" href="#work">View Our Work</a>
+        <a class="btn b-gr" href="#contact">Contact LocalBoost</a>
+      </div>
+    </div>
+    <div class="fan" aria-hidden="true">
+      <img class="a" src="images/brew.jpg" alt="" width="610" height="920">
+      <img class="b" src="images/sweet.jpg" alt="" width="608" height="920">
+      <img class="c" src="images/glow.jpg" alt="" width="610" height="920">
+    </div>
+  </div>
+</section>
+
+<section class="about" id="about">
+  <div class="wrap">
+    <div>
+      <p class="kick">About LocalBoost</p>
+      <h2>The Local Business Growth Partner</h2>
+      <p>LocalBoost helps local businesses strengthen their online presence through practical, affordable, and creative digital solutions.</p>
+      <p>We believe every local business deserves the opportunity to grow digitally.</p>
+      <p>Our approach focuses on understanding business needs, identifying opportunities for improvement, and recommending suitable digital solutions.</p>
+      <div class="chips"><span class="chip">Honesty</span><span class="chip">Practicality</span><span class="chip">Creativity</span><span class="chip">Affordability</span><span class="chip">Collaboration</span></div>
+    </div>
+    <div class="mission"><p class="kick" style="color:var(--orange)">Our mission</p><h3>To make digital growth simpler and more accessible for local businesses.</h3><p>We are a growing digital service business, starting with salons and beauty studios.</p></div>
+  </div>
+</section>
+
+<section id="services">
+  <div class="wrap">
+    <p class="kick">What we do</p>
+    <h2>Our services</h2>
+    <p class="sub">Eight ways we can support your online presence. Availability depends on the agreed project scope.</p>
+    <div class="grid g4">
+      <article class="card"><div class="ico" style="background:var(--blue)">1</div><h3>Social Media Management</h3><p>Content plans, calendars, captions and hashtags.</p></article>
+      <article class="card"><div class="ico" style="background:var(--orange)">2</div><h3>Graphic Design and Creatives</h3><p>Posters, offer creatives, posts and Stories.</p></article>
+      <article class="card"><div class="ico" style="background:var(--green)">3</div><h3>Google Business Profile</h3><p>Audit and optimization so nearby customers can find you.</p></article>
+      <article class="card"><div class="ico" style="background:var(--blue)">4</div><h3>Website Design</h3><p>Simple, mobile-friendly sites with call and WhatsApp buttons.</p></article>
+      <article class="card"><div class="ico" style="background:var(--green)">5</div><h3>Basic SEO Support</h3><p>Local keywords, meta tags, headings and on-page basics.</p></article>
+      <article class="card"><div class="ico" style="background:var(--green)">6</div><h3>WhatsApp Marketing</h3><p>Message templates, reminders, catalogue and follow-ups.</p></article>
+      <article class="card"><div class="ico" style="background:var(--orange)">7</div><h3>Reels and Content Strategy</h3><p>Reel ideas, hooks, scripts and a planned content mix.</p></article>
+      <article class="card"><div class="ico" style="background:var(--navy)">8</div><h3>Branding Support</h3><p>Logo use, colours, fonts and consistent social designs.</p></article>
+    </div>
+  </div>
+</section>
+
+<section id="work" style="background:var(--card);border-block:1px solid var(--line)">
+  <div class="wrap">
+    <p class="kick">Creative gallery</p>
+    <h2>Sample designs</h2>
+    <p class="sub">Original concept designs that show our style for different kinds of local businesses.</p>
+    <div class="gal">
+      <figure><img src="images/brew.jpg" alt="The Brew House cafe poster with a latte" width="610" height="920" loading="lazy"><figcaption>The Brew House<span>Cafe poster</span></figcaption></figure>
+      <figure><img src="images/sweet.jpg" alt="Sweet Bites bakery poster with chocolate cake" width="608" height="920" loading="lazy"><figcaption>Sweet Bites<span>Bakery poster</span></figcaption></figure>
+      <figure><img src="images/trendy.jpg" alt="Trendy Threads clothing store poster" width="608" height="920" loading="lazy"><figcaption>Trendy Threads<span>Clothing store poster</span></figcaption></figure>
+      <figure><img src="images/glow.jpg" alt="Glow and Grace beauty salon poster" width="610" height="920" loading="lazy"><figcaption>Glow &amp; Grace<span>Beauty salon poster</span></figcaption></figure>
+      <figure><img src="images/fitzone.jpg" alt="FitZone fitness studio poster" width="610" height="826" loading="lazy"><figcaption>FitZone<span>Fitness studio poster</span></figcaption></figure>
+      <figure><img src="images/spice.jpg" alt="Spice Villa restaurant poster with biryani" width="608" height="826" loading="lazy"><figcaption>Spice Villa<span>Restaurant poster</span></figcaption></figure>
+      <figure><img src="images/localboost.jpg" alt="LocalBoost brand poster: Grow Your Business Online" width="608" height="826" loading="lazy"><figcaption>LocalBoost<span>Our own brand poster</span></figcaption></figure>
+      <figure><img src="images/tea.jpg" alt="Tea Trails iced tea and snacks poster" width="610" height="826" loading="lazy"><figcaption>Tea Trails<span>Tea and snacks poster</span></figcaption></figure>
+      <figure class="w"><img src="images/brightminds.jpg" alt="Bright Minds tutoring classes poster" width="1242" height="714" loading="lazy"><figcaption>Bright Minds<span>Tutoring classes poster</span></figcaption></figure>
+      <figure class="w"><img src="images/greennest.jpg" alt="GreenNest plant shop poster" width="1242" height="714" loading="lazy"><figcaption>GreenNest<span>Plant shop poster</span></figcaption></figure>
+    </div>
+    <p class="note">These are concept demos with fictional business names. They are not completed client projects. Your designs will carry your own brand, photos, language and contact details.</p>
+  </div>
+</section>
+
+<section class="plans" id="plans">
+  <div class="wrap">
+    <p class="kick">Our approach</p>
+    <h2>Be Found. Be Trusted. Be Booked. Be Remembered.</h2>
+    <p class="sub">We are starting with salons and beauty studios, and we also support cafes, shops and other local businesses. Pricing depends on your project scope, so message us for a quote.</p>
+    <div class="grid g3">
+      <article class="card"><h3>Visibility Setup</h3><p>A one-time setup to get your business ready online.</p>
+        <ul><li>Google Business Profile optimization</li><li>Review QR code and reply templates</li><li>10 posters in your brand style</li><li>WhatsApp catalogue and quick replies</li><li>First-month content plan</li></ul></article>
+      <article class="card pop"><h3>Monthly Growth System</h3><p>Ongoing support to keep your presence active.</p>
+        <ul><li>Everything in Visibility Setup</li><li>Weekly Google Posts</li><li>Monthly social posts and Reel ideas</li><li>Review management</li><li>Monthly WhatsApp campaign</li><li>One-page monthly report</li></ul></article>
+      <article class="card"><h3>Local Leader</h3><p>For businesses ready to do more.</p>
+        <ul><li>Everything in Monthly Growth System</li><li>Meta ads setup (ad budget paid by you)</li><li>Simple website or landing page</li><li>Basic SEO support</li><li>Quarterly strategy review</li></ul></article>
+    </div>
+    <p class="note">We do not promise rankings, followers or sales. We recommend only the services that suit your business and agree the scope with you first.</p>
+  </div>
+</section>
+
+<section id="process" style="background:var(--card);border-block:1px solid var(--line)">
+  <div class="wrap">
+    <p class="kick">Our process</p>
+    <h2>How we work</h2>
+    <p class="sub">A clear path from first chat to final delivery.</p>
+    <ol class="steps">
+      <li><h3>Understand the business</h3><p>We learn about your business, customers and goals.</p></li>
+      <li><h3>Identify opportunities</h3><p>We review your online presence and find areas to improve.</p></li>
+      <li><h3>Recommend suitable services</h3><p>We suggest only what makes sense for you.</p></li>
+      <li><h3>Plan and create</h3><p>We plan the work and create designs, content or setups.</p></li>
+      <li><h3>Review and refine</h3><p>You review the work and we refine it within the agreed scope.</p></li>
+      <li><h3>Deliver and plan next steps</h3><p>We hand over the final work and discuss what comes next.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap" style="max-width:820px">
+    <p class="kick">Questions</p>
+    <h2>Frequently asked questions</h2>
+    <details><summary>Do you guarantee Google rankings or sales?</summary><p>No. Results depend on many factors. We focus on practical improvements and honest reporting.</p></details>
+    <details><summary>How is pricing decided?</summary><p>Pricing depends on the services and scope you need. Message us on WhatsApp and we will share a clear quote.</p></details>
+    <details><summary>Do you need my passwords?</summary><p>No. For Google, Instagram or other accounts we ask for Manager or Admin access, never your password.</p></details>
+    <details><summary>Which businesses do you work with?</summary><p>We are starting with salons and beauty studios. We also support cafes, retail shops, service providers and small businesses.</p
